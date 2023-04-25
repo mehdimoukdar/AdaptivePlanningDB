@@ -1,5 +1,5 @@
 {
-     rows: [
+     "rows": [
         {
              "Value": 10, 
              "Measure": "", 
@@ -58,7 +58,7 @@
 };
 
 {
-    Tables : [
+    "Tables" : [
         {
             name : "dataSample",
             displayName : "Sample",
